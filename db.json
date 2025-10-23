@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Mrs. Virginia Homenick",
+      "id": 3
+    },
+    {
+      "name": "Leonard O'Reilly",
+      "id": 4
+    },
+    {
+      "name": "Delores Turcotte II",
+      "id": 5
+    },
+    {
+      "name": "Milton Wuckert",
+      "id": 6
+    }
+  ],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking trip",
+      "userId": 1
+    }
+  ],
+  "photos": []
+}
